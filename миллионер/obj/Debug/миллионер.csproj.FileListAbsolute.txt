@@ -1,0 +1,14 @@
+C:\Users\Аленка\source\repos\миллионер\миллионер\bin\Debug\миллионер.exe.config
+C:\Users\Аленка\source\repos\миллионер\миллионер\bin\Debug\миллионер.exe
+C:\Users\Аленка\source\repos\миллионер\миллионер\bin\Debug\миллионер.pdb
+C:\Users\Аленка\source\repos\миллионер\миллионер\obj\Debug\миллионер.csprojAssemblyReference.cache
+C:\Users\Аленка\source\repos\миллионер\миллионер\obj\Debug\миллионер.Form1.resources
+C:\Users\Аленка\source\repos\миллионер\миллионер\obj\Debug\миллионер.Properties.Resources.resources
+C:\Users\Аленка\source\repos\миллионер\миллионер\obj\Debug\миллионер.csproj.GenerateResource.cache
+C:\Users\Аленка\source\repos\миллионер\миллионер\obj\Debug\миллионер.csproj.CoreCompileInputs.cache
+C:\Users\Аленка\source\repos\миллионер\миллионер\obj\Debug\миллионер.exe
+C:\Users\Аленка\source\repos\миллионер\миллионер\obj\Debug\миллионер.pdb
+C:\Users\Аленка\source\repos\миллионер\миллионер\obj\Debug\миллионер.AddQuestion.resources
+C:\Users\Аленка\source\repos\миллионер\миллионер\obj\Debug\миллионер.DeleteQuestion.resources
+C:\Users\Аленка\source\repos\миллионер\миллионер\obj\Debug\миллионер.EditQuestion.resources
+C:\Users\Аленка\source\repos\миллионер\миллионер\obj\Debug\миллионер.About.resources
